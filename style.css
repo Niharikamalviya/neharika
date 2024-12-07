@@ -1,0 +1,10 @@
+body{
+    background-color: lavender;
+}
+h1{
+    color:red;
+}
+/* display:flex;  for change the position left to right aline*/
+h1{
+    text-align: center;
+}
